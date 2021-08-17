@@ -3,7 +3,7 @@
 ![VEGAN](https://img.shields.io/badge/Vegan-Friendly-brightgreen)
 # FCC Golf game
 
-_Learning with JS with https://www.freecodecamp.org/_
+_Learning JS with https://www.freecodecamp.org/_
 
 This project is for educational purposes only.
 
