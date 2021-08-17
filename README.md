@@ -1,7 +1,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 ![VEGAN](https://img.shields.io/badge/Vegan-Friendly-brightgreen)
-# FCC Golf game
+# FCC Golf game (using else if)
 
 _Learning JS with https://www.freecodecamp.org/_
 
